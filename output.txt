@@ -1,0 +1,11 @@
+episode=0 reward=0.98125
+episode=1 reward=0.96875
+episode=2 reward=0.975
+episode=3 reward=0.9625
+episode=4 reward=0.99375
+episode=5 reward=0.9875
+episode=6 reward=0.9875
+episode=7 reward=0.95
+episode=8 reward=0.9625
+episode=9 reward=0.96875
+mean reward: 0.9737500000000001
